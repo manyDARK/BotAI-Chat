@@ -1,6 +1,8 @@
 # BotAI-Chat
 BotChat in minigames servers 1.2-1.6
 
+- [x] Working in Chat
+- [ ] Working in NPC/BOT (Slapper, ect..)
 
 # Messages (60)
 ---------------------------
