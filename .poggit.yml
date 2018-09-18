@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/manyDARK/BotAI-Chat
+branches:
+- master
+projects:
+  BotAI-Chat:
+    path: ""
+...
