@@ -1,4 +1,4 @@
-# BotAI-Chat
+# BotChat
 BotChat in minigames servers 1.2-1.6
 
 - [x] Working in Chat
